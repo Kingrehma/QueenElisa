@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QUUBXRvFDZphXYmhHWnZVVwxEbwADWSZ0Vtdkdy00QohnZFdTcRZGMG9UTjwkcKpXM5ElRpwd=586378473329',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -18,14 +18,14 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  ALIVE_MEDIA: 'https://telegra.ph/file/b3d725fcdc12fb382866f.jpg',
+  MONGODB_URL: 'mongodb+srv://Tamseel:Tamseel@cluster0.2ixsh.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NAME: 'Kratos',
+  OWNER_NUMBER: '923374873685',
   SUDO: '94715166712',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
